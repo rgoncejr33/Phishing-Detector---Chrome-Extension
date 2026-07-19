@@ -1,0 +1,4 @@
+body {
+  width: 300px;
+  min-height: 150px; /* optional but prevents a collapsed popup on load */
+}
